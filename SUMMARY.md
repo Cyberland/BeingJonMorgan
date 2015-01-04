@@ -1,6 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-* Test Summary
+* [Test Summary](thanksgiving.md)
    * Test Section
 
